@@ -14,28 +14,37 @@ ReactDOM.render(
 
   <Tabs defaultActiveKey="appetizers">
   <Tab eventKey="appetizers" title="Appetizers">
-
-    <Table striped bordered hover>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>yum</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr>
-      </thead>
+    <Table>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
       </tbody>
       </Table>
@@ -43,54 +52,50 @@ ReactDOM.render(
   </Tab>
 
   <Tab eventKey="profile" title="Profile">
-        <Table striped bordered hover>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr>
-      </thead>
+    <Table>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
       </tbody>
       </Table>
   </Tab>
 
   <Tab eventKey="contact" title="Contact">
-    <Table striped bordered hover>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr>
-      </thead>
+    <Table >
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
       </tbody>
       </Table>
@@ -104,28 +109,37 @@ ReactDOM.render(
 
   <Tabs defaultActiveKey="appetizers">
   <Tab eventKey="appetizers" title="Appetizers">
-
-    <Table striped bordered hover>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>yum</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr>
-      </thead>
+    <Table>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
       </tbody>
       </Table>
@@ -133,54 +147,50 @@ ReactDOM.render(
   </Tab>
 
   <Tab eventKey="profile" title="Profile">
-        <Table striped bordered hover>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr>
-      </thead>
+    <Table>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
+        </tr>
+        <tr>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
       </tbody>
       </Table>
   </Tab>
 
   <Tab eventKey="contact" title="Contact">
-    <Table striped bordered hover>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr>
-      </thead>
+    <Table >
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
         <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>A01</td>
+          <td>蛋卷</td>
+          <td>Egg Roll or Spring Roll (Vegetable)</td>
+          <td>2.00</td>
         </tr>
       </tbody>
       </Table>
