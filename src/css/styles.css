@@ -38,12 +38,14 @@ hr.divider {
 
 .bg-1 {
   background-color: darkred;
+  box-shadow: inset 0 0 25px black;
 }
 
 .bg-2 {
   background-color: white;
   color: black;
   font-weight: bold;
+  box-shadow: inset 0 0 25px black;
 }
 
 

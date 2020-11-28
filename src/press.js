@@ -46,54 +46,6 @@ ReactDOM.render(
           <td>Egg Roll or Spring Roll (Vegetable)</td>
           <td>2.00</td>
         </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
-        <tr>
-          <td>A01</td>
-          <td>蛋卷</td>
-          <td>Egg Roll or Spring Roll (Vegetable)</td>
-          <td>2.00</td>
-        </tr>
       </tbody>
       </Table>
 
