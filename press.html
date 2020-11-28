@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/logo.png" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -11,14 +11,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#fff" />
     <meta
-      name="description"
-      content="Web site created using create-react-app"
+    name="description"
+    content="Web site created using create-react-app"
     />
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  -->
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
@@ -27,80 +27,138 @@
       Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>Press Stories-Great Wall Restaurant</title>
-  </head>
-  <body>
+  -->
+  <title>Press Stories-Great Wall Restaurant</title>
+</head>
+<body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <header class="masthead" style="background: linear-gradient(rgb(37, 14, 14, 0.75), rgb(37, 14, 14, 0.75)), url(%PUBLIC_URL%/interior.png);">
+    <header class="bg-1" style="background: linear-gradient(rgb(37, 14, 14, 0.75), rgb(37, 14, 14, 0.75)), url(%PUBLIC_URL%/interior.png);" id="top">
         <div class="container">
-            <div class="row h-100 align-items-center justify-content-center text-center">
+            <div class="row align-items-center justify-content-center text-center">
+                <a class="logo-link" href="index.html">
+                    <div class="col-lg-20">
+                        <img src="gw_logo2_2.png" alt="greatwall-logo" style="opacity: 0.8; max-width:200px"/>
+                        <h2> Great Wall Restaurant</h2>
+                        <hr class="divider" />
+                        <h2 class="chin" style="margin-top:-0.75rem">长城</h2>
+                    </div>
+                </a>
                 <div class="col-lg-10 align-self-end">
-                    <img src="%PUBLIC_URL%/logo.png" alt="greatwall-logo"/>
-                    <h1 class="title font-weight-bold">Great Wall Restaurant</h1>
-                    <h2 class="chin font-weight-bold">长城</h2>
-                    <hr class="divider" />
-                </div>
-                <div class="">
-                    <p class="font-weight-light mb-5">178 Pine Street, Florence, MA  01062 | (413) 582-0399</p>
-
-                    <a class="btn btn-1 btn-xl js-scroll-trigger" href="#menu">Menu</a>
-                    <a class="btn btn-1 btn-xl js-scroll-trigger" href="#gourmet">Gourmet Menu</a>
-                   <!--  <br>
-                    <br> -->
-                    <!-- <a class="btn btn-1 btn-xl js-scroll-trigger" href="#gourmet">Press Reviews</a> -->
+                    <h1 class="mb-5">Press Reviews</h1>
                 </div>
             </div>
         </div>
     </header>
 
-    <section class="page-section bg-1" id="about">
+    <section class="page-section bg-2">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="text-center">
-                    <p class="text-white"> OUR OPEN HOURS </p>
+            <div class="row">
+                <div class="col-sm">
+                    <img src="yan1l.jpg" alt="greatwall-logo" style="max-width:95%; margin-bottom:20px"/>
+                    <img src="yan2l.jpg" alt="greatwall-logo" style="max-width:95%; margin-bottom:40px"/>
+                </div>
+                <div class="col-sm">
+                    <img src="yan3l.jpg" alt="greatwall-logo" style="max-width:95%; margin-bottom:20px; margin-left:-30px"/>
+                    <img src="yan4l.jpg" alt="greatwall-logo" style="max-width:95%; margin-bottom:40px; margin-left:-30px"/>
+                </div>
+                <div class="col-sm">
+                    <h2 class="press-title" style="margin-left:-50px"> “YAN CAN COOK” TV Chef Visits Great Wall in Florence </h2>
+                    <p class="press-text" style="margin-left:-50px"> Famous Chinese cooking show host, Martin Yan, from “Yan Can Cook” , visited the Great Wall restaurant in Florence to sample owners Clara and Ken Li’s cooking.  Mr. Yan was delighted by the authenticity of the food saying it was “very healthy, home style Chinese cooking with a natural flavor.” Yan sampled several Great Wall specialties: Stuffed Tofu, Salt & Pepper Shrimp, Steamed Flounder and a new item he loved: Scallion Pancakes.  Located in Florence, MA, the Great Wall Restaurant is a hidden treasure for Chinese food lovers. </p>
+                    
                     <hr class="divider" />
-                    <p> Monday - Thursday 11:00am - 9:30pm </p>
-                    <p> Friday - Saturday 11:00am - 9:30pm </p>
-                    <p> Sunday 12:00pm - 9:30pm </p>
-                    <hr class="divider" />
-                    <p> ·  Dim Sum on Saturdays 11am-2pm  · </p>
-                    <br>
-                    <p> We offer FREE DELIVERY to Northampton, Florence & Leeds at a $20 Minimum. </p>
                 </div>
             </div>
         </div>
-    </section>
-
-    <section class="page-section bg-2" id="about">
+        <br>
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <!-- <p>“YAN CAN COOK” TV Chef Visits Great Wall in Florence</p>
-                    <p>Famous Chinese cooking show host, Martin Yan, from “Yan Can Cook” , visited the Great Wall restaurant in Florence to sample owners Clara and Ken Li’s cooking.  Mr. Yan was delighted by the authenticity of the food saying it was “very healthy, home style Chinese cooking with a natural flavor.” ...</p> -->
-                    The Great Wall is a proud member of the CISA, serving seasonally available and locally grown ingredients.
+            <div class="row">
+                <div class="col-sm">
+                    <h2 class="press-title"> No Reservations: The dish on the DINING SCENE </h2>
+                    <p> Patron Saints | Hampshire Life, March 12, 2004, by Christine Barber </p>
+                    <p class="press-text"> “It’s been less than a year since I became a convert.”  So said Lois Ahrens, a local social-justice activist, when she called me in January and invited me to join her for dinner at the restaurant to which she had “converted”: GREAT WALL, in Florence.  I didn’t need much convincing. People tend to be passionate about their favorite restaurants, but it isn’t everyday that they express their passion using the vocabulary of religious evangelism.</p>
+                    <p class="press-text"> In describing Great Wall to me, Ahrens was honest about its shortcomings. It’s located in a strip mall between a liquor store and a diary mart, she said, and it “fails in the atmosphere category”  (a keno machine is among the highlights of its décor).  But what it lacks in character it more than makes up for it in food, Ahrens said.  As long as you order from the new gourmet menu rather than the old boilerplate one, she said, you’re guaranteed to get “the best Chinese food anywhere around here.”</p>
+                    <p class="press-text"> Pretty high praise, that, so I accepted her invitation, and my partner and I arranged to meet her at Great Wall one evening last month.  We would be joined by Ahrens’ partner, Ellen Miller-Mack, a nurse-practitioner and radio-show host (“Blame It on the Blues,” on WMUA); and Ahrens’ friend Lisa Baskin, a local historian, publisher and activist – not to mention foodie – whom Ahrens and Miller-Mack credit with their “conversion.” </p>
+                    <p class="press-text">On the appointed day, Baskin was the first to arrive.  She was sporting buttons that read “Beat Bush” and “Impeach,” and she carried two bottles of red wine.  She seemed to know every employee at the restaurant by name, and without so much as a glance at the menu, she ordered a seaweed salad and a scallion pancake to get us started.  The $2 seaweed salad was like that served at Japanese restaurants – pleasantly crunchy, and garnished with sesame seeds; the $3.75 scallion pancake was sliced like pizza and served with a zippy dipping sauce of vinegar, soy sauce, ginger and garlic. </p>
+                    <p class="press-text">When the rest of our dining companions arrived, the real feeding frenzy began.  Never mind that there were only five of us; we ordered enough food to feed 10. Baskin, Ahrens, and Miller-Mack each had a host of dishes that my partner and I, the Great Wall virgins, simply had to try, and before we knew it, our large round table was overflowing with food.  The dinner is a bit of a blur for that reason, but plenty of dishes still stand out in my mind. </p>
+                    <p class="press-text">Like the $16 Savory Aromatic Roasted Chicken , whose flesh was impossibly moist and tender because , as Baskin explained, it had been simultaneously steamed and roasted.  Or the $11.95 seafood hot pot, with shrimp and scallops layered on top of vegetables, glass noodles and homemade stock.  Or the $8.95 Dragon Skin, which went a long way toward persuading me that tofu is indeed worth eating (the dish consists of dried tofu skin wrapped around shrimp, chicken and black mushrooms, then lightly fried and served on a bed of greens).  Or perhaps most memorably, the market-priced flounder, a sophisticated banquet-style dish served on an oval platter, with lightly sautéed chunks of fish surrounded by deep-fried pieces of its skeleton – fins, bones and the like, all very much edible. </p>
+                </div>
+                <div class="col-sm">
+                    <p class="press-text">Was this Chinese food?  Not like I’d ever had before.  Like lots of Americans, I grew up eating egg rolls, wonton soup and moo goo gai pan.  I never lived near a Chinatown, so I didn’t know what I was missing.   That a restaurant in Florence could , when asked, serve authentic Chinese food using only fresh ingredients – no icky baby corn, no canned bamboo shoots – was a revelation.</p>
+                    <p class="press-text">So why doesn’t everybody know about Great Wall, which had been in business since 1996?  Well, they will if Ahrens and Baskin have their way.  The women are so fond of the restaurant and its hardworking husband-and-wife owners, Hong Kong natives Ken Cheung and Clara Li, that, being activists, they did what came naturally: took it on as a cause.</p>
+                    <p class="press-text">Ahrens and Miller-Mack eat out at Great Wall at least once a week, and they are forever recruiting the initiated to accompany them.  “There’s nobody I brought or told to go that hasn’t gone back,” Ahren claims.  “It really is this one-tells-one kind of thing.” In particular, she enjoys bringing the restaurant to the attention of transplanted New Yorkers like herself who have been jonesing for some real Chinese food - not that hackneyed Chinese-American stuff.  One of her many conquests is Northampton Mayor Clare Higgins, a former Brooklynite.  According to Ahrens, Higgins initially had to be “dragged” to Great Wall, but has since become a familiar face at the restaurant. </p>
+                    <p class="press-text">If Ahrens is waging a grassroots campaign, Baskin is intent on bringing the restaurant to the masses.  Baskin discovered Great Wall in 2002 and has long since befriended its owners; these days, she can be found at the restaurant as often as three times a week.  As a regular, she learned early on that the key to getting great food at Great Wall is to avoid ordering from the standard menu.  “Clara and Kenny get deliveries quite a number of times a week from Boston and New York,” Baskin told me, “and what I soon learned was, just come in and talk to Clara  and see what has come in and what’s fresh.” </p>
+                    <p class="press-text">Like Ahrens, Baskin has introduced countless people to Great Wall (“I’ve got a big network,” she says), but she hated the notion that only insiders were getting access to the type of off-the-menu dishes that kept her coming back to the restaurant.  So she suggested creating a second “gourmet” menu.  The owners loved the idea (Baskin, Clara Li says, is “wonderful.  She’s just like my mom; she help me so much”), and then spent months writing the menu with Baskin, who designed it and paid to have it photocopied. </p>
+                    <p class="press-text">Of course, gourmet menus aren’t for everyone, and Great Wall won’t be getting rid of its old menu anytime soon.  “There’s still and entire take-away world that calls in and orders fried rice and chicken fingers – and is happy with that,” Baskin says.  “You know the saying ‘The Earth has room for all’?   It does.” </p>
+                    <p class="press-text">E-mail restaurant related news and tips to cbarber@gazettenet.com. “No Reservations” is archived in GazetteNET’s Wine & Dine section. </p>
                     <hr class="divider" />
-                    <a class="btn btn-1 btn-xl js-scroll-trigger" href="#press">See Our Story</a>
+                </div>
+
+                <div class="col-sm">
+                    <img src="patronpressl.jpg" alt="Patron Saints" style="max-width:95%"/>
                 </div>
             </div>
         </div>
-    </section>
-
-    <section class="page-section bg-1" id="about">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <p> We are happy to provide catering services for larger parties or small dinners. </p>
-                    <hr class="divider" />
-                    <p class="text-white mb-4"> A Family Restaurant Owned Locally By: Ken Cheung & Clara Li</p>
-                    <a class="btn btn-2 btn-xl js-scroll-trigger" href="#root">Back to Top</a>
-                </div>
+    </div>
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <img src="menupressl.jpg" alt="greatwall-logo" style="max-width:90%"/>
+            </div>
+            <div class="col-sm">
+                <h2 class="press-title"> Great Wall: The Menu </h2>
+                <p> Food 52/60 | Atmosphere 19/30 | Attitude 9/10 | Value 86/100 | Average Score 80/100 </p>
+                <p class="press-text"> Sometimes ordering is everything. If you choose wisely, then Great Wall , a frumpy restaurant sitting in an even frumpier Florence strip mall, serves what is perhaps the best Chinese food in the Valley.  If you choose poorly, then you might never experience the difference between Great Wall and the rest of the pack.  The dining room looks vaguely seedy, in a friendly way: zodiac paper placements happily coexist with a stained carpet, potted plants, and hanging strings of Chinese firecrackers.  Despite the blah atmosphere, the restaurant’s delightful owner, a Hong Kong native, provides an enthusiastic welcome, and her husband runs the kitchen.</p>
+                <p class="press-text"> The standard printed menu reads like a series of Chinese-American take-out clichés.  Instead, direct your attention to the specials board posted just outside the front door.  It might lead you to try the scallion pancake, or perhaps a plateful of Chinese greens.  Both are good, if a tad oily – a characteristic present in many of the dishes.  The pancake is fragrant and crisp, and it has a high ratio of spring onion to dough.  The greens are very tender and flavorful (two especially good choices are pea greens and “yo tsai” – the latter a cross between spinach and collard greens: prenatal collards, if you will).</p>
+            </div>
+            <div class="col-sm">
+                <p class="press-text"> If you’re really serious about Chinese food – and if you’re not, you should be – forgo the menu, and ask the owner what other specials she has.  Many of her clientele are homesick international students from UMass – and sometimes their wide-eyed American friends who are along for the ride.  They know to ask for the authentic dishes, which include regional specialties such as Hainanese steamed chicken, rice porridge with thousand-year-old egg and shredded pork, and   salt-and-pepper shrimp.  Most of these choices are masterfully rendered, and their higher prices reflect their fit-for-banquet quality.  One of Great Wall’s best dishes is stuffed tofu studded with pieces of chicken and minced shrimp.  The tofu is expertly friend and sauced, and although the chicken and shrimp are not readily discernible (due to being cooked so tenderly that they practically meld into the tofu itself), their flavors ar mouth-filling and complex.  On weekend mornings, there’s wonderful dim sum, including shrimp and pork dumplings, steamed pork buns, excellent mussels, first-rate steamed sticky rice in lotus leaf, mix-and-match noodle soup, and such hard-to-find Chinese breakfast classics as sweet soybean milk with “you tiao” or fried crullers. </p>
+                <hr class="divider" />
             </div>
         </div>
-    </section>
+    </div>
+</div>
 
-    <script src="js/scripts.js"></script>
+<br>
+<div class="container">
+    <h2 class="press-title"> Cooking From the Soul</h2>
+    <p> Valley Advocate, February 10, 2005, by J. Evans and R. V. L. Jones </p>
+    <div class="row">
+        <div class="col-sm">
+            <p class="press-text"> Savory meats, innovative tofu specialties and vegetables crisp and tender live up to their billing at Great Wall. </p>
+            <p class="press-text">Surprise!" shouted Miss Dish. "Gung hay fat choy!" She hastily explained that we were going to Great Wall, to celebrate the beginning of the Year of the Rooster.</p>
+            <p class="press-text">Great Wall is located in a strip mall, and its interior is run-of-the-mill. But this is a case of deceptive appearances: Great Wall offers some of the best Chinese food to be found in the Valley.</p>
+            <p class="press-text">We were presented with two menus ­ one "regular" and one "gourmet" -- a bowl of sweet pickled diakon radish, and a bowl of edamame beans. The "regular" menu was unremarkable, but the much shorter "gourmet" menu was surprising, offering some dishes not served at any of Great Wall's fancier downtown neighbors, and some we'd never heard of.</p>
+            <p class="press-text">Traditional South China Dish, for example, is alternate layers of stir-fried pork, dried vegetables and pickled mustard greens, slow-cooked together. The market vegetables included such delicacies as Chinese water spinach and baby mustard greens. Oysters, soft shell crab, mussels and clams are available seasonally.</p>
+            <p class="press-text">We inferred that the sophistication displayed on the gourmet menu might show in the preparation of the more prosaic dishes on the regular menu, so we considered it with special interest. Still, we couldn't resist ordering exclusively gourmet.</p>
+            <p class="press-text">The Chef's Special Dumplings were exceedingly good. The edges were crisp and savory, the middles soft and sweet. While the stuffing's ingredients were not unusual -- pork, shrimp, scallion, ginger -- it had an exceptionally nuanced flavor and refined texture. The dipping sauce was vinegar-tangy, with a subtle chili kick. And the dumplings were so abundant that we could share them without squabbling.</p>
+            <p class="press-text">I was torn between the two "Chef's Choices," which were Dragon Skin ­ described as dried tofu skin wrapped around shrimp, chicken and black mushrooms ­ and Chef Cheung's Own Special Stuffed Tofu. Both were available in vegetarian versions; I chose the latter in its non-vegetarian incarnation, and was treated to an impressive, elegant dish.</p>
+
+        </div>
+        <div class="col-sm">
+            <p class="press-text">Big golden parcels of tofu, festooned with a confetti of red chili, scallion, onion and garlic bits, were coated in a light-bodied, garlic-infused sauce. Cooked into each parcel was a bite-sized nugget of delectable minced shrimp and chicken. All -- meaning enough to feed a table of four -- rested on a bed of sautéed baby bok choy.</p>
+            <p class="press-text">Because chao fan is a simple dish ­ broad rice noodles stir-fried with slivers of vegetable, primarily onion, carrot and celery, plus, in this case, chicken -- it can either be an uninspired, sticky clump or the kind of meal that satisfies one's soul, depending on the skill (or perhaps it is the soulfulness) of the chef. Great Wall's chao fan hit the spot. It was richly smoky, with soft noodles and vegetables that were almost caramelized, yet retained their crunch.</p>
+            <p class="press-text">Crispy Crackling Aromatic Roasted Pork lived up to its name in every way. Beneath the layer of crisp golden skin, which had an aroma of star anise and chili oil, was a layer of creamy fat, and beneath that was a layer of profoundly succulent and tender meat. As with the tofu dish, the bed of bok choy it rested upon was prepared perfectly -- mildly astringent without being bitter, cooked with a light touch, but still fork-tender; a welcome, wholesome accompaniment to the rich pork.</p>
+            <p class="press-text">Akai Rice piqued our interest. This the menu described as heirloom red, golden and black rice, touting its many health benefits. It arrived looking like a bowl of sparkling jewels. At first we thought it tasted like brown rice, but it was more complex. The black rice was crunchy, nutty. The golden rice was like brown rice, but much softer. The red rice, while wholesome, appeared to have no distinct flavor -- but we agreed that it was very beautiful.</p>
+            <p class="press-text">"No New Year's Eve is complete without a brunch to follow," I suggested. "Shall we revisit Great Wall this weekend? They have a Dim Sum lunch every Saturday, from eleven to three." I reminded her, as well, that on February 13 they would have lion dancers performing the new year's Lion Dance from 3-3:30 p.m. in the parking lot. Miss Dish waved her chopsticks to signal her enthusiasm, as her mouth was otherwise occupied.</p>
+            <p class="press-text">dishandspoone@yahoo.com</p>
+            <p class="press-text">http://www.valleyadvocate.com/gbase/Dining/content.html?oid=oid:99676 </p>
+
+            <hr class="divider" />
+        </div>
+        <div class="col-sm">
+            <img src="soul.jpg" alt="Contrasting textures -- crisp vegetables, tender noodles -- are
+            half the secret at Great Wall." style="min-width:350px"/>
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-center">
+    <a class="btn btn-1 btn-xl js-scroll-trigger" href="#top">Back to Top</a>
+</div>
+</section>
+
+<script src="js/scripts.js"></script>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -110,6 +168,6 @@
 
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+  -->
+</body>
 </html>

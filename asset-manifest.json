@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/greatwall/static/css/main.606698b3.chunk.css",
+    "main.css": "/greatwall/static/css/main.13034111.chunk.css",
     "main.js": "/greatwall/static/js/main.15f938ae.chunk.js",
     "main.js.map": "/greatwall/static/js/main.15f938ae.chunk.js.map",
     "runtime-main.js": "/greatwall/static/js/runtime-main.248e1aef.js",
@@ -8,13 +8,13 @@
     "static/js/2.b3a61bdc.chunk.js": "/greatwall/static/js/2.b3a61bdc.chunk.js",
     "static/js/2.b3a61bdc.chunk.js.map": "/greatwall/static/js/2.b3a61bdc.chunk.js.map",
     "index.html": "/greatwall/index.html",
-    "static/css/main.606698b3.chunk.css.map": "/greatwall/static/css/main.606698b3.chunk.css.map",
+    "static/css/main.13034111.chunk.css.map": "/greatwall/static/css/main.13034111.chunk.css.map",
     "static/js/2.b3a61bdc.chunk.js.LICENSE.txt": "/greatwall/static/js/2.b3a61bdc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.248e1aef.js",
     "static/js/2.b3a61bdc.chunk.js",
-    "static/css/main.606698b3.chunk.css",
+    "static/css/main.13034111.chunk.css",
     "static/js/main.15f938ae.chunk.js"
   ]
 }

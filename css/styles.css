@@ -99,6 +99,21 @@ header.masthead h1 {
   color: white;
 }
 
+.press-title {
+  font-family: 'Cinzel';
+  font-size: 1.5rem;
+  color: darkred;
+  font-weight: bold;
+}
+
+.press-text {
+  font-family: 'Arial';
+  font-size: 0.85rem;
+  font-weight: 1;
+  color: black;
+}
+
+
 .nav-item, .nav-link {
   font-family: 'Arial';
   font-size: 1.1rem;
@@ -110,6 +125,21 @@ header.masthead h1 {
 }
 .nav-item:hover, .nav-link:hover {
   color: lightgrey;
+}
+
+.logo-link {
+  font-family: 'Cinzel';
+  font-size: 3.5rem;
+  color: white;
+}
+
+.logo-link:active {
+  color: white;
+  text-decoration: none;
+}
+.logo-link:hover {
+  color: white;
+  text-decoration: none;
 }
 
 .table {
