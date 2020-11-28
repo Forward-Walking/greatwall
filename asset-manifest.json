@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/greatwall/static/css/main.1388b24a.chunk.css",
-    "main.js": "/greatwall/static/js/main.efbdb862.chunk.js",
-    "main.js.map": "/greatwall/static/js/main.efbdb862.chunk.js.map",
+    "main.css": "/greatwall/static/css/main.2cc7bb51.chunk.css",
+    "main.js": "/greatwall/static/js/main.ae744484.chunk.js",
+    "main.js.map": "/greatwall/static/js/main.ae744484.chunk.js.map",
     "runtime-main.js": "/greatwall/static/js/runtime-main.248e1aef.js",
     "runtime-main.js.map": "/greatwall/static/js/runtime-main.248e1aef.js.map",
-    "static/js/2.ec62d648.chunk.js": "/greatwall/static/js/2.ec62d648.chunk.js",
-    "static/js/2.ec62d648.chunk.js.map": "/greatwall/static/js/2.ec62d648.chunk.js.map",
+    "static/js/2.b3a61bdc.chunk.js": "/greatwall/static/js/2.b3a61bdc.chunk.js",
+    "static/js/2.b3a61bdc.chunk.js.map": "/greatwall/static/js/2.b3a61bdc.chunk.js.map",
     "index.html": "/greatwall/index.html",
-    "static/css/main.1388b24a.chunk.css.map": "/greatwall/static/css/main.1388b24a.chunk.css.map",
-    "static/js/2.ec62d648.chunk.js.LICENSE.txt": "/greatwall/static/js/2.ec62d648.chunk.js.LICENSE.txt"
+    "static/css/main.2cc7bb51.chunk.css.map": "/greatwall/static/css/main.2cc7bb51.chunk.css.map",
+    "static/js/2.b3a61bdc.chunk.js.LICENSE.txt": "/greatwall/static/js/2.b3a61bdc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.248e1aef.js",
-    "static/js/2.ec62d648.chunk.js",
-    "static/css/main.1388b24a.chunk.css",
-    "static/js/main.efbdb862.chunk.js"
+    "static/js/2.b3a61bdc.chunk.js",
+    "static/css/main.2cc7bb51.chunk.css",
+    "static/js/main.ae744484.chunk.js"
   ]
 }

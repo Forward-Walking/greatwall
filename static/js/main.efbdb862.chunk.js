@@ -1,2 +1,0 @@
-(this.webpackJsonpgreatwall=this.webpackJsonpgreatwall||[]).push([[0],{10:function(t,e,n){},11:function(t,e,n){},4:function(t,e,n){"use strict";n.r(e);var a=n(2),c=n(0),o=n.n(c),r=n(3),s=n.n(r);n(10),n(11);s.a.render(Object(a.jsx)(o.a.StrictMode,{}),document.getElementById("root"))}},[[4,1,2]]]);
-//# sourceMappingURL=main.efbdb862.chunk.js.map
