@@ -37,7 +37,7 @@ export class Menu extends React.Component{
 		}
 		
 		return (
-			<Tabs forceRenderTabPanel defaultIndex={1}>
+			<Tabs forceRenderTabPanel defaultIndex={0}>
 			{final}
 			</Tabs>
 		)

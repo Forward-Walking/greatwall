@@ -113,20 +113,6 @@ header.masthead h1 {
   color: black;
 }
 
-
-.nav-item, .nav-link {
-  font-family: 'Arial';
-  font-size: 1.1rem;
-  color: white;
-}
-
-.nav-item:active, .nav-link:active {
-  color: white;
-}
-.nav-item:hover, .nav-link:hover {
-  color: lightgrey;
-}
-
 .logo-link {
   font-family: 'Cinzel';
   font-size: 3.5rem;
@@ -142,8 +128,14 @@ header.masthead h1 {
   text-decoration: none;
 }
 
-.table {
+.react-tabs__tab {
+  font-family: 'Cinzel';
   color: white;
+}
+.react-tabs__tab:hover {
+  font-family: 'Cinzel';
+  font-weight: bold;
+  color: grey;
 }
 
 table {
@@ -153,7 +145,7 @@ table {
 
 tr td {
   text-align: left;
-  width: 5%;
+  width: 10%;
   white-space: nowrap;
   border-bottom: 1px dotted #fff;
 }
