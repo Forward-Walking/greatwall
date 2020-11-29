@@ -8,9 +8,6 @@ import Tabs from 'react-bootstrap/Tabs';
 
 import Menu from './js/menu.js'
 
-// import App from './App';
-// import reportWebVitals from './reportWebVitals';
-
 ReactDOM.render(
   <Menu />,
   document.getElementById("menu-table")

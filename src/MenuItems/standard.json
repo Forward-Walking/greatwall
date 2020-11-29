@@ -20,7 +20,7 @@
 		]
 	},
 	{
-		"name": "Appetizer Combination Sepcials",
+		"name": "Appetizer Combination Specials",
 		"items": [
 		  {
 		    "chinese": "",
@@ -30,6 +30,11 @@
 		  {
 		    "chinese": "",
 		    "name": "A16. Boneless Spare Ribs & Fried Shrimp & Chicken Fingers",
+		    "price": "$10.95"
+		  },
+		  {
+		  	"chinese": "",
+		    "name": "A17. Beef Teriyaki & Bar-B-Q Boneless Spare Ribs & Egg Rolls",
 		    "price": "$10.95"
 		  }
 		]

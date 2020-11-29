@@ -2,26 +2,157 @@
   {
     "name": "Lunch Specials",
     "items": [
-    {
-      "name": "L01. Boneless Ribs & Chicken Fingers",
-      "chinese": "",
-      "price": 6.95
-    },
-    {
-      "name": "L02. Broccoli w/ Tofu",
-      "chinese": "",
-      "price": 6.95
-    },
-    {
-      "name": "L03. Sweet & Sour Chicken",
-      "chinese": "",
-      "price": 6.95
-    },
-    {
-      "name": "L04. BBQ Beef Sticks & Boneless Ribs",
-      "chinese": "",
-      "price": 6.95
-    }]
+      {
+        "chinese": "L01",
+        "name": "Boneless Ribs & Chicken Fingers",
+        "price": 6.95
+      },
+      {
+        "chinese": "L02",
+        "name": "Broccoli w/ Tofu",
+        "price": 6.95
+      },
+      {
+        "chinese": "L03",
+        "name": "Sweet & Sour Chicken",
+        "price": 6.95
+      },
+      {
+        "chinese": "L04",
+        "name": "BBQ Beef Sticks & Boneless Ribs",
+        "price": 6.95
+      },
+      {
+        "chinese": "L05",
+        "name": "Beef w/ Green Pepper",
+        "price": 6.95
+      },
+      {
+        "chinese": "L06",
+        "name": "Szechuan Spiced Chicken",
+        "price": 6.95
+      },
+      {
+        "chinese": "L07",
+        "name": "Baby Bok Choy w/ Tofu",
+        "price": 6.95
+      },
+      {
+        "chinese": "L08",
+        "name": "Sweet & Sour Shrimps",
+        "price": 7.95
+      },
+      {
+        "chinese": "L09",
+        "name": "Crab Rangoon & Chicken Wings",
+        "price": 6.95
+      },
+      {
+        "chinese": "L10",
+        "name": "Chicken Chow Mein",
+        "price": 6.95
+      },
+      {
+        "chinese": "L11",
+        "name": "Shrimps Chow Mein",
+        "price": 7.95
+      },
+      {
+        "chinese": "L12",
+        "name": "Szechuan Spiced Beef",
+        "price": 6.95
+      },
+      {
+        "chinese": "L13",
+        "name": "Beef w/ Mushrooms",
+        "price": 6.95
+      },
+      {
+        "chinese": "L14",
+        "name": "Beef w/ Chinese Vegetables",
+        "price": 6.95
+      },
+      {
+        "chinese": "L15",
+        "name": "Chicken Wings & BBQ Boneless Spare Ribs",
+        "price": 6.95
+      },
+      {
+        "chinese": "L16",
+        "name": "Shrimp w/ Garlic Sauce & Vegetables",
+        "price": 7.95
+      },
+      {
+        "chinese": "L17",
+        "name": "Sliced Chicken w/ Mushroom & Chinese Veg",
+        "price": 6.95
+      },
+      {
+        "chinese": "L18",
+        "name": "Diced Chicken w/ Cashew Nuts",
+        "price": 6.95
+      },
+      {
+        "chinese": "L19",
+        "name": "Beef w/ Broccoli",
+        "price": 6.95
+      },
+      {
+        "chinese": "L20",
+        "name": "Shrimps w/ Cashew Nuts",
+        "price": 7.95
+      },
+      {
+        "chinese": "L21",
+        "name": "BBQ Beef Sticks & Chicken Fingers",
+        "price": 6.95
+      },
+      {
+        "chinese": "L22",
+        "name": "Sliced Chicken & Broccoli",
+        "price": 6.95
+      },
+      {
+        "chinese": "L23",
+        "name": "Jumbo Shrimp w/ Broccoli",
+        "price": 7.95
+      },
+      {
+        "chinese": "L24",
+        "name": "Szechuan Sliced Pork w/ Peking Sauce",
+        "price": 6.95
+      },
+      {
+        "chinese": "L25",
+        "name": "Scallops w/ Broccoli & Mushrooms",
+        "price": 7.95
+      },
+      {
+        "chinese": "L26",
+        "name": "Crab Rangoon & Boneless Spare Ribs",
+        "price": 6.95
+      },
+      {
+        "chinese": "L27",
+        "name": "House Special Chicken",
+        "price": 6.95
+      },
+      {
+        "chinese": "L28",
+        "name": "Sesame Chicken",
+        "price": 6.95
+      },
+      {
+        "chinese": "L29",
+        "name": "Chinese Lo Mein (Any Style)",
+        "price": 6.95
+      },
+      {
+        "chinese": "L30",
+        "name": "Moo Shu (Any Style)",
+        "price": 6.95
+      }
+    ]
   }
 ]
 

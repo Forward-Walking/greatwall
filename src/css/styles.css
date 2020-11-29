@@ -145,3 +145,15 @@ header.masthead h1 {
 .table {
   color: white;
 }
+
+table {
+  color: white;
+  text-align: center;
+}
+
+tr td {
+  text-align: left;
+  width: 5%;
+  white-space: nowrap;
+  border-bottom: 1px dotted #fff;
+}
