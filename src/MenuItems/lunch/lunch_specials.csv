@@ -1,5 +1,31 @@
-id,name,chinese,price
-"L01","Boneless Ribs & Chicken Fingers",null,6.95
-"L02","Broccoli w/ Tofu",null,6.95
-"L03","Sweet & Sour Chicken",null,6.95
-"L04","BBQ Beef Sticks & Boneless Ribs",null,6.95
+id,name,price
+L01,Boneless Ribs & Chicken Fingers,6.95
+L02,Broccoli w/ Tofu,6.95
+L03,Sweet & Sour Chicken,6.95
+L04,BBQ Beef Sticks & Boneless Ribs,6.95
+L05,Beef w/ Green Pepper,6.95
+L06,Szechuan Spiced Chicken,6.95
+L07,Baby Bok Choy w/ Tofu,6.95
+L08,Sweet & Sour Shrimps,7.95
+L09,Crab Rangoon & Chicken Wings,6.95
+L10,Chicken Chow Mein,6.95
+L11,Shrimps Chow Mein,7.95
+L12,Szechuan Spiced Beef,6.95
+L13,Beef w/ Mushrooms,6.95
+L14,Beef w/ Chinese Vegetables,6.95
+L15,Chicken Wings & BBQ Boneless Spare Ribs,6.95
+L16,Shrimp w/ Garlic Sauce & Vegetables,7.95
+L17,Sliced Chicken w/ Mushroom & Chinese Veg,6.95
+L18,Diced Chicken w/ Cashew Nuts,6.95
+L19,Beef w/ Broccoli,6.95
+L20,Shrimps w/ Cashew Nuts,7.95
+L21,BBQ Beef Sticks & Chicken Fingers,6.95
+L22,Sliced Chicken & Broccoli,6.95
+L23,Jumbo Shrimp w/ Broccoli,7.95
+L24,Szechuan Sliced Pork w/ Peking Sauce,6.95
+L25,Scallops w/ Broccoli & Mushrooms,7.95
+L26,Crab Rangoon & Boneless Spare Ribs,6.95
+L27,House Special Chicken,6.95
+L28,Sesame Chicken,6.95
+L29,Chinese Lo Mein (Any Style),6.95
+L30,Moo Shu (Any Style),6.95
