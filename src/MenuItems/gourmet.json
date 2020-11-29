@@ -1,0 +1,106 @@
+[  
+  {
+    "name": "Appetizers",
+    "items": [
+      {
+        "name": "Shanghai Style Pork Ribs",
+        "chinese": "上海小排骨",
+        "price": "$37.25"
+      },
+      {
+        "name": "Scallion Pancake",
+        "chinese": "章油餅",
+        "price": "$4.95"
+      },
+      {
+        "name": "Cold Noodles With Sesame Sauce",
+        "chinese": "涼麵",
+        "price": "$6.95"
+      },
+      {
+        "name": "Seaweed Salad With Sesame Sauce",
+        "chinese": "海析皮沙拉",
+        "price": "$4.00"
+      },
+      {
+        "name": "Chef's Special Dumplings (Steamed or Pan Fried)",
+        "chinese": "本樓鍋貼或水餃",
+        "price": "$6.95"
+      },
+      {
+        "name": "Vegetarian Durmplings (Steamed or Pan Fried)",
+        "chinese": "素菜鍋貼或水餃",
+        "price": "$6.95"
+      },
+      {
+        "name": "Chef's Speeial Hot and Sour Soup",
+        "chinese": "酚辣湯",
+        "price": "$2.50"
+      },
+      {
+        "name": "House Special Soup (for two)",
+        "chinese": "本樓湯",
+        "price": "$8.95"
+      },
+      {
+        "name": "Vegetarian Soup (for two)",
+        "chinese": "素菜湯",
+        "price": "$7.95"
+      },
+      {
+        "name": "Seafood Soup (for two)",
+        "chinese": "海鮮湯",
+        "price": "$8.95"
+      },
+      {
+        "name": "Corn Cakes seasonal",
+        "chinese": "票米藤餅",
+        "price": "$6.95"
+      },
+      {
+        "name": "Shrimp Har Gow seasonal",
+        "chinese": "蝦餃",
+        "price": "$7.95"
+      }
+    ]},
+  {
+    "name": "poultry",
+    "items": [
+      {
+        "name": "Steamed Chinese Greens with Chicken",
+        "chinese": "清蒸紊菜雞片",
+        "price": "$11.95"
+      },
+      {
+        "name": "Savory Aromafic Roasted Chicken",
+        "chinese": "燒雞",
+        "price": "Whole $19.00 | Half $11.95"
+      },
+      {
+        "name": "Steamed Chicken",
+        "chinese": "莫沿雞",
+        "price": "Whole $19.00 | Half $11.95"
+      },
+      {
+        "name": "Roasted Duck",
+        "chinese": "燒鸭",
+        "price": "Whole $20.95 | Half $13.95"
+      },
+      {
+        "name": "Chef's Classic Peking Duck (*Please request 24 hours in advance)",
+        "chinese": "北京鸭",
+        "price": "Whole duck $31.95"
+      },
+      {
+        "name": "Pineapple Chicken",
+        "chinese": "菠蘿雞",
+        "price": "$11.95"
+      },
+      {
+        "name": "Black Bean Paste Duck",
+        "chinese": "甜麵鴨",
+        "price": "$12.95"
+      }
+    ]
+  }
+]

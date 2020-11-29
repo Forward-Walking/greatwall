@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Appetizers",
+		"items": [
+		  {
+		    "chinese": "上海春卷",
+		    "name": "Egg Roll or Spring Roll (Vegetarian)",
+		    "price": "$2.00"
+		  },
+		  {
+		    "chinese": "烤鸡翼",
+		    "name": "Fried Chicken Wings",
+		    "price": "$6.95"
+		  },
+		  {
+		    "chinese": "靠几条",
+		    "name": "Fried Chicken Fingers",
+		    "price": "$6.95"
+		  }
+		]
+	},
+	{
+		"name": "Appetizer Combination Sepcials",
+		"items": [
+		  {
+		    "chinese": "",
+		    "name": "A15. Egg Roll & Beef Terriyaki & Chicken Wing & Chicken Fingers",
+		    "price": "$10.95"
+		  },
+		  {
+		    "chinese": "",
+		    "name": "A16. Boneless Spare Ribs & Fried Shrimp & Chicken Fingers",
+		    "price": "$10.95"
+		  }
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[ 
+  {
+    "name": "Lunch Specials",
+    "items": [
+    {
+      "name": "L01. Boneless Ribs & Chicken Fingers",
+      "chinese": "",
+      "price": 6.95
+    },
+    {
+      "name": "L02. Broccoli w/ Tofu",
+      "chinese": "",
+      "price": 6.95
+    },
+    {
+      "name": "L03. Sweet & Sour Chicken",
+      "chinese": "",
+      "price": 6.95
+    },
+    {
+      "name": "L04. BBQ Beef Sticks & Boneless Ribs",
+      "chinese": "",
+      "price": 6.95
+    }]
+  }
+]
+
